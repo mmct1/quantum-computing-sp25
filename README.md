@@ -1,2 +1,2 @@
 # quantum-computing-sp25
-exercises from Quantum Computing, Noson Yanofsky
+Exercises from Quantum Computing by Noson Yanofsky
